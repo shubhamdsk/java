@@ -1,5 +1,5 @@
 
-// 8 To display addition of two matrices .
+//  To display addition of two matrices .
 import java.util.Scanner;
 
 public class Addition_of_Matrix {
@@ -39,7 +39,7 @@ public class Addition_of_Matrix {
             }
             System.out.println(" ");
         }
-        int[][] result = { { 0, 0, 0 }, { 0, 0, 0 }, { 0, 0, 0 } };
+        int[][] result = new int[r][c] ;
 
         for (int i = 0; i < r; i++) { // row no of times
             for (int j = 0; j < c; j++) { // column no of times
