@@ -1,5 +1,5 @@
 
-// 3 To accept n numbers ,store into array and display array numbers in ascending order.
+// To accept n numbers ,store into array and display array numbers in ascending order.
 import java.util.Scanner;
 
 public class Ascending_Number {
