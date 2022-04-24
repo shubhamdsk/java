@@ -1,6 +1,9 @@
 
 /**
- * Write jdbc program that accept department from user and display the employee information who gave max salary from that departmentF
+ *
+ * For databse use dept.pgsql file
+ * 
+ * Write jdbc program that accept department from user and display the employee information who gave max salary from that department
  */
 
 import java.sql.Connection;
